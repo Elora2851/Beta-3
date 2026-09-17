@@ -1,6 +1,6 @@
 # La Culture Maori 🇳🇿
 ## <ins>Histoire</ins>
-## 2ème sous titre
+## Culture
 [link to my Second page](Dossier/Second_page)
 List:
 1. item 1
