@@ -8,4 +8,5 @@ List:
 
 ![image](tatouage_maori.jfif)
 
+<p align="center">
   <img src="./tatouage_maori.jfif" width="237" height="323">
