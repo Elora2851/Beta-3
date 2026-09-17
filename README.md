@@ -7,4 +7,5 @@ List:
 2. item 2
 
 ![image](tatouage_maori.jfif)
+
 <img src="./img/tatouage_maori.jfif" width="237" height="323">
