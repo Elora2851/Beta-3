@@ -1,4 +1,4 @@
-# La Culture Maori :new_zealand:
+# La Culture Maori 🇳🇿
 ## <ins>Histoire</ins>
 ## 2ème sous titre
 [link to my Second page](Dossier/Second_page)
