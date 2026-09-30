@@ -1,23 +1,5 @@
 # La Nouvelle Zélande🥝
-<header>
-  <div class="logo">MonSite</div>
-  <button class="burger-btn" id="burgerToggle" aria-label="Ouvrir le menu">
-    <span></span>
-    <span></span>
-    <span></span>
-  </button>
-  <nav class="nav-menu" id="navMenu">
-    <ul>
-      <li><a href="#accueil">Paysages</a></li>
-      <li><a href="#services">Services</a></li>
-      <li><a href="#contact">Contact</a></li>
-    </ul>
-  </nav>
-</header>
-
-
-
-
+npm install hamburger-react
 
 ## <ins>Histoire</ins>
 
