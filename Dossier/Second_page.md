@@ -14,8 +14,8 @@ On peut ainsi y croiser de nombreuses espèces telles que des:
 - otaries
 - requins
 - et bien 'autres encore...
-<p align="center">
-  <img src="./NZlandscapes.jpg" width="237" height="323">
+
+![image](NZlandscapes)
 
 
 > ***"En Nouvelle-Zélande, nous répugnons à être impliqués dans les complications du monde, nous restons paisiblement avec nos moutons, nos vaches et nos livres." Peter Jackson***
