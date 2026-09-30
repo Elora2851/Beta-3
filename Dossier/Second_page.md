@@ -7,5 +7,5 @@ On peut ainsi y croiser de nombreuses espèces telles que:
 
 
 
-> En Nouvelle-Zélande, nous répugnons à être impliqués dans les complications du monde, nous restons paisiblement avec nos moutons, nos vaches et nos livres. ***Peter Jackson***
+> **"En Nouvelle-Zélande, nous répugnons à être impliqués dans les complications du monde, nous restons paisiblement avec nos moutons, nos vaches et nos livres." Peter Jackson**
 
