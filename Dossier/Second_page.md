@@ -5,8 +5,10 @@ On peut ainsi y croiser de nombreuses espèces telles que des:
 - possums
 - orques
 - baleines
-- kiwis
-- kakapo
+- oiseaux
+       - kiwis
+       - kakapo
+       - kea
 - manchots
 - dauphins
 - otaries
