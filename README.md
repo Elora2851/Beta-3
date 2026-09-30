@@ -1,8 +1,5 @@
 # La Nouvelle Zélande🥝
-npm install hamburger-react
-
 ## <ins>Histoire</ins>
-
 ## Culture
 [link to my Second page](Dossier/Second_page)
 List:
