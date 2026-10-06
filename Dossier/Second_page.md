@@ -15,7 +15,7 @@ On peut ainsi y croiser de nombreuses espèces telles que des:
 - requins
 - et bien 'autres encore...
 
-![image](NZlandscapes)
+![image](NZlandscapes.jpg)
 
 
 > ***"En Nouvelle-Zélande, nous répugnons à être impliqués dans les complications du monde, nous restons paisiblement avec nos moutons, nos vaches et nos livres." Peter Jackson***
