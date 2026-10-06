@@ -6,9 +6,9 @@ On peut ainsi y croiser de nombreuses espèces telles que des:
 - orques
 - baleines
 - oiseaux
-       - kiwis
-       - kakapo
-       - kea
+  - kiwis
+  - kakapo
+  - kea
 - manchots
 - dauphins
 - otaries
