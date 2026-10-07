@@ -5,7 +5,7 @@ La Nouvelle-Zélande est un pays d'Océanie composé de nombreuses îles, dont d
 ## <ins>Caractéristiques de la Nouvelle-Zélande<ins>
 List:
 1. [Culture Maori](Culture_Maori.md)
-2. [🥝](Dossier/Les_kiwis.md)
+2. [🥝](Dossier/Les_Kiwis.md)
 3. [Paysages](Dossier/Second_page)
 
 <p align="center">
