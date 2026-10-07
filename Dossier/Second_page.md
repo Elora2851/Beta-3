@@ -16,6 +16,7 @@ On peut ainsi y croiser de nombreuses espèces telles que des:
 - et bien d'autres encore...
 
 ![image](NZ1.html)
+![image](NZ2.webp)
 
 
 > ***"En Nouvelle-Zélande, nous répugnons à être impliqués dans les complications du monde, nous restons paisiblement avec nos moutons, nos vaches et nos livres." Peter Jackson***
