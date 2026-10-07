@@ -4,3 +4,5 @@ L'élément le plus connu de la culture maorie est le haka. Bien plus qu'une sim
 Ils sont également connus pour leurs tatouages, les Ta Moko. Ils sont très spécifiques et chaque trait à sa signification propre. Ils sont une illustration de l'identité de la personne qui les porte et peuvent représenter des caractères, une histoire ou des ancêtres. A l'origine, ils étaient gravés dans la peau à l'aide de ciseaux en os.
 
 Voici une courte vidéo sur la [signification des tatouages maoris.](https://youtu.be/IrJPXVQqcgc?si=NhvYMMq_4NmrKvqu)
+
+![image](tatouage_maori_bande.png)
