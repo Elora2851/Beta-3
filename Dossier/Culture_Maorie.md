@@ -1,1 +1,1 @@
-La culture maorie trouve son origine en Polynésie orientale.
+La culture maorie trouve son origine en Polynésie orientale. En Nouvelle-Zélande ce sont des navigateurs qui ont apporté cette culture il y a environ 1000 ans. Elle est aujourd'hui indissociable de l'identité néo-zélandaise et représentée par 14% de la population.
