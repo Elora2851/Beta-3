@@ -13,7 +13,7 @@ On peut ainsi y croiser de nombreuses espèces telles que des:
 - dauphins
 - otaries
 - requins
-- et bien 'autres encore...
+- et bien d'autres encore...
 
 ![image](NZ1.html)
 
